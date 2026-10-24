@@ -4,7 +4,7 @@
 <h1 align="center">¡Hola! Soy Miguel Ángel Sarmiento 👋</h1>
 
 <p align="center">
-  🚀 <b>Estudiante de Análisis y Desarrollo de Software</b> | Full-Stack & Automation Developer
+  🚀 <b>Estudiante de Análisis y Desarrollo de Software</b> | Web Developer
 </p>
 
 <p align="center">
